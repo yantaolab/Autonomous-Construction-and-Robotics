@@ -26,13 +26,13 @@
 - [Code](projects/qa_numbered/1.py)
 - [Dataset](projects/qa_numbered/1.py)
 
-## Project 04 GenAI and GenDesign
+## [Project 04 — GenAI and GenDesign](projects/Project%2004%20GenAI%20and%20GenDesign/)
 
-- 🧩 [Project 04](/projects/Project04)
-- [1](/projects/Project 04 GenAI and GenDesign)
-- [Code](projects/qa_numbered/1.py)
-- [Dataset](projects/qa_numbered/1.py)
-
+- 🧩 [Open Project 04](projects/Project%2004%20GenAI%20and%20GenDesign/)
+- 💻 [Data-analysis code](projects/Project%2004%20GenAI%20and%20GenDesign/project_1_data_analysis/analyze_learning.py)
+- 📊 [Dataset](projects/Project%2004%20GenAI%20and%20GenDesign/project_1_data_analysis/student_learning.csv)
+- 📈 [Learning summary](projects/Project%2004%20GenAI%20and%20GenDesign/project_1_data_analysis/learning_summary.svg)
+- 📝 [Analysis report](projects/Project%2004%20GenAI%20and%20GenDesign/project_1_data_analysis/analysis_report.txt)
 
 ## Create a new project
 
