@@ -12,19 +12,19 @@
 
 - 🧩 [Project 01](projects/qa_numbered)
 - [Code](projects/qa_numbered/1.py)
-- [Dataset](projects/qa_numbered/1.py)
+- 📊 [Dataset](projects/qa_numbered/1.py)
 
 ## Project 02 Machine Learning
 
 - 🧩 [Project 02](projects/qa_numbered)
 - [Code](projects/qa_numbered/1.py)
-- [Dataset](projects/qa_numbered/1.py)
+- 📊 [Dataset](projects/qa_numbered/1.py)
 
 ## Project 03 Deep learning and Reinforcement learning
 
 - 🧩 [Project 03](projects/qa_numbered)
 - [Code](projects/qa_numbered/1.py)
-- [Dataset](projects/qa_numbered/1.py)
+- 📊 [Dataset](projects/qa_numbered/1.py)
 
 ## [Project 04 — GenAI and GenDesign]
 
