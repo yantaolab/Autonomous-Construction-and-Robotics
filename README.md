@@ -7,11 +7,11 @@ A simple library for course material, code and useful links.
 - 📄 [Literature / slides / PDFs](library/literature/)
 - 💻 [Code and notebooks](library/code/)
 - 🔗 [Useful links](library/links/)
-- 🧩 [Projects](projects/qa_numbered)
+- 🧩 [Projects](projects/)
 
 ## Project 01
-[Project 01](projects/Project 01 Introduction to Construction Industry and Course Overview)
-- 🧩 [Project 01](projects/Project 01 Introduction to Construction Industry and Course Overview)
+
+- 🧩 [Project 01](projects/qa_numbered)
 ## Create a new project
 
 Click **Add file → Create new file** in the `projects` folder and name it, for example:
