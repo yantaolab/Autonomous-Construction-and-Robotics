@@ -28,7 +28,7 @@
 
 ## Project 04 GenAI and GenDesign
 
-- 🧩 [Project 04](projects/qa_numbered)
+- 🧩 [Project 04](/projects/Project04)
 - [Code](projects/qa_numbered/1.py)
 - [Dataset](projects/qa_numbered/1.py)
 
