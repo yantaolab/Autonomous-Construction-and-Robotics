@@ -1,6 +1,5 @@
 # DISC5105 — Autonomous Construction and Robotics
 
-A simple library for course material, code and useful links.
 
 ## Library
 
