@@ -12,6 +12,7 @@ A simple library for course material, code and useful links.
 ## Project 01
 
 - 🧩 [Project 01](projects/qa_numbered)
+- [code](projects/qa_numbered/1.py)
 ## Create a new project
 
 Click **Add file → Create new file** in the `projects` folder and name it, for example:
