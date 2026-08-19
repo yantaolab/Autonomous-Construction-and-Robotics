@@ -10,9 +10,24 @@
 
 ## Project 01 Introduction to Construction Industry and Course Overview
 
-- 🧩 [Project 01](projects/qa_numbered)
+- 🧩 [Project 02](projects/qa_numbered)
 - [Code](projects/qa_numbered/1.py)
 - [Dataset](projects/qa_numbered/1.py)
+
+## Project 02 Machine Learning
+
+- 🧩 [Project 02](projects/qa_numbered)
+- [Code](projects/qa_numbered/1.py)
+- [Dataset](projects/qa_numbered/1.py)
+
+## Project 03 Deep learning and Reinforcement learning
+
+- 🧩 [Project 02](projects/qa_numbered)
+- [Code](projects/qa_numbered/1.py)
+- [Dataset](projects/qa_numbered/1.py)
+
+
+
 ## Create a new project
 
 Click **Add file → Create new file** in the `projects` folder and name it, for example:
