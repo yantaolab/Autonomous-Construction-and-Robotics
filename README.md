@@ -11,7 +11,7 @@
 ## Project 01 Introduction to Construction Industry and Course Overview
 
 - 🧩 [Project 01](projects/qa_numbered)
-- [ccode](projects/qa_numbered/1.py)
+- [Code](projects/qa_numbered/1.py)
 - [Dataset](projects/qa_numbered/1.py)
 ## Create a new project
 
