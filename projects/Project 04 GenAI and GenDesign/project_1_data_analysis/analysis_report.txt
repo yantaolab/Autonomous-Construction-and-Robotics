@@ -1,0 +1,14 @@
+Student Learning Data Report
+============================
+Rows: 20
+Missing values: 0
+Duplicate rows: 0
+Invalid final scores: 0
+
+Correlation (study hours, final score): 0.99
+Correlation (attendance rate, final score): 0.99
+
+Interpretation:
+The sample shows positive associations between both study hours and attendance
+with final score. These are correlations within this small dataset; they do not
+demonstrate that either factor alone causes a higher score.
