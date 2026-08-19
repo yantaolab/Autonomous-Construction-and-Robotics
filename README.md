@@ -9,13 +9,8 @@ A simple library for course material, code and useful links.
 - 🔗 [Useful links](library/links/)
 - 🧩 [Projects](projects/)
 
-## How to upload something
-
-1. Open the folder above that fits your item.
-2. Click **Add file → Upload files**.
-3. Drag in your PDF, code, notebook or image, then click **Commit changes**.
-
-For an external website, Colab notebook, video or dataset, add it as a bullet in [`library/links/README.md`](library/links/README.md). No web programming is needed.
+## Project 01
+[Project 01](projects/Project 01 Introduction to Construction Industry and Course Overview)
 
 ## Create a new project
 
