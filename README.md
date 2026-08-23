@@ -26,10 +26,11 @@
 - [Code](projects/qa_numbered/1.py)
 - 📊 [Dataset](projects/qa_numbered/1.py)
 
-## [Project 04 — GenAI and GenDesign]
+## Project 04 — GenAI and GenDesign
 
 - 🧩 [Open Project 04-01](projects/Project%2004%20GenAI%20and%20GenDesign/project_1_data_analysis)
 - 📊 [Dataset](projects/Project%2004%20GenAI%20and%20GenDesign/project_1_data_analysis/student_learning.csv)
+- API : sk-DipjymKFL1rxW0qtwjE0UV7erEEslIlcYeW0sbzZ3Zaty3Cn
 
 ## Create a new project
 
