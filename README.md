@@ -1,4 +1,4 @@
-# DISC5105 — Autonomous Construction and Robotics
+ Autonomous Construction and Robotics
 
 
 ## Library
