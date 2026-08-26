@@ -1,12 +1,9 @@
- Autonomous Construction and Robotics
+# Autonomous Construction and Robotics
 
+## Course Overview
 
-## Library
+This multi-faceted course encompasses advanced technologies in infrastructure and building construction, maintenance, and operations. The course provides deep learning methods in computer vision and robot sensing, together with hands-on coding training for solving construction management problems using these methods. Combined with tools from artificial intelligence and robotics, the course equips students with leading-edge knowledge and practical skills to facilitate successful construction transformation in the context of smart cities.
 
-- 📄 [Literature / slides / PDFs](library/literature/)
-- 💻 [Code and notebooks](library/code/)
-- 🔗 [Useful links](library/links/)
-- 🧩 [Projects](projects/)
 
 ## Project 01 Introduction to Construction Industry and Course Overview
 
