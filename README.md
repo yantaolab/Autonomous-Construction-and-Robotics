@@ -21,6 +21,3 @@ This multi-faceted course encompasses advanced technologies in infrastructure an
 - 📝 [Assignment Questions](projects/Project%2002%20House%20Price%20Prediction/DISC5105_Week2_A1_Assignment_Questions.docx)
 
 
-
-> Do not upload personal data, private student work, passwords or API keys. For a file larger than 100 MB, use Google Drive, Zenodo, Hugging Face or GitHub Releases and add its URL in the Links page.
-
