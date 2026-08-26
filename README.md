@@ -14,11 +14,13 @@
 - [Code](projects/qa_numbered/1.py)
 - 📊 [Dataset](projects/qa_numbered/1.py)
 
-## Project 02 Machine Learning
 
-- 🧩 [Project 02](projects/qa_numbered)
-- [Code](projects/qa_numbered/1.py)
-- 📊 [Dataset](projects/qa_numbered/1.py)
+## Project 02 House Price Prediction
+
+- 🧩 [Project 02](projects/Project%2002%20House%20Price%20Prediction/)
+- 💻 [Code](projects/Project%2002%20House%20Price%20Prediction/DISC5105_Week2_Housing_Price_Tutorial.ipynb)
+- 📑 [Tutorial Slides](projects/Project%2002%20House%20Price%20Prediction/DISC5105_Week2_Housing_Price_Tutorial.pptx)
+- 📝 [Assignment Questions](projects/Project%2002%20House%20Price%20Prediction/DISC5105_Week2_A1_Assignment_Questions.docx)
 
 ## Project 03 Deep learning and Reinforcement learning
 
