@@ -11,7 +11,7 @@ This multi-faceted course encompasses advanced technologies in infrastructure an
 ## Project 01 House Price Prediction
 
 - 🧩 [Project 01](Projects/Project%2001%20House%20Price%20Prediction/)
-- 💻 [Code](Projects/Project%2001%20House%20Price%20Prediction/DISC5105_Week2_Housing_Price_Tutorial.ipynb)
-- 📊 [Dataset](Projects/Project%2001%20House%20Price%20Prediction/DISC5105_Week2_Housing_Price_kc_house_data.csv)
-- 📑 [Tutorial Slides](Projects/Project%2001%20House%20Price%20Prediction/DISC5105_Week2_Housing_Price_Tutorial.pptx)
-- 📝 [Assignment Questions](Projects/Project%2001%20House%20Price%20Prediction/DISC5105_Week2_A1_Assignment_Questions.docx)
+- 💻 [Code](Projects/Project%2001%20House%20Price%20Prediction/A1_Housing_Price_Tutorial.ipynb)
+- 📊 [Dataset](Projects/Project%2001%20House%20Price%20Prediction/A1_Housing_Price_data.csv)
+- 📑 [Tutorial Slides](Projects/Project%2001%20House%20Price%20Prediction/A1_Housing_Price_Tutorial.pptx)
+- 📝 [Assignment Questions](Projects/Project%2001%20House%20Price%20Prediction/A1_Assignment_Questions.docx)
