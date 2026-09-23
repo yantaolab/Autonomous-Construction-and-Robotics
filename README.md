@@ -16,6 +16,13 @@ This multi-faceted course encompasses advanced technologies in infrastructure an
 - 📑 [Tutorial Slides](Projects/Project%2001%20House%20Price%20Prediction/A1_Housing_Price_Tutorial.pptx)
 - 📝 [Assignment Questions](Projects/Project%2001%20House%20Price%20Prediction/A1_Assignment_Questions.docx)
 
+## Project 02 Smartphone-based Pose Classification
+
+- 🧩 [Project 02](./Projects/Project%2002%20Smartphone-based%20pose%20classification/)
+- 💻 [Code](./Projects/Project%2002%20Smartphone-based%20pose%20classification/A2_Smartphone-based%20method_Tutorial.ipynb)
+- 📊 [Dataset](./Projects/Project%2002%20Smartphone-based%20pose%20classification/A2_preprocessed%20dataset%20823.csv)
+- 📑 [Tutorial Slides](./Projects/Project%2002%20Smartphone-based%20pose%20classification/Smartphone-based%20method%20introduction_Tutorial.pptx)
+- 📝 [Assignment Questions](./Projects/Project%2002%20Smartphone-based%20pose%20classification/A2_Assignment_Questions.docx)
 
 ## Project 03 Construction Tool Classification
 
