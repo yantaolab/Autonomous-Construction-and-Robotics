@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 5
+names: ['Drill', 'Hammer', 'Pliers', 'Screwdriver', 'Wrench']
+
+roboflow:
+  workspace: drone-fcvjd
+  project: tools-bynck
+  version: 7
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/drone-fcvjd/tools-bynck/dataset/7
