@@ -24,10 +24,12 @@ This multi-faceted course encompasses advanced technologies in infrastructure an
 - 📑 [Tutorial Slides](Projects/Project%2002%20Smartphone-based%20pose%20classification/Smartphone%20based%20method%20introduction.pptx)
 - 📝 [Assignment Questions](Projects/Project%2002%20Smartphone-based%20pose%20classification/A2_Assignment_Questions.docx)
 
-## Project 03 Construction Tool Classification
 
-- 🧩 [Project 03](Projects/Project%2003%20Construction%20Tool%20Classification/)
-- 💻 [Code](Projects/Project%2003%20Construction%20Tool%20Classification/YOLO_Detection_Colab.ipynb)
-- 📊 [Dataset](Projects/Project%2003%20Construction%20Tool%20Classification/)
-- 📑 [Tutorial Slides](Projects/Project%2003%20Construction%20Tool%20Classification/A3_Construction_Tool_Classification_Tutorial.pptx)
-- 📝 [Assignment Questions](Projects/Project%2003%20Construction%20Tool%20Classification/A3_Assignment_Question.docx)
+## Project 03 Construction Tool Detection
+
+- 🧩 [Project 03](Projects/Project%2003%20Construction%20Tool%20Detection)
+- 💻 [Code](Projects/Project%2003%20Construction%20Tool%20Detection)
+- 📊 [Dataset](Projects/Project%2003%20Construction%20Tool%20Detection)
+- 📑 [Tutorial Slides](Projects/Project%2003%20Construction%20Tool%20Detection/A3_Construction_Tool_Detection_Tutorial.pptx)
+- 📝 [Assignment Questions](Projects/Project%2003%20Construction%20Tool%20Detection)
+  
