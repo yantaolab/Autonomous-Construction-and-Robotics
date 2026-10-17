@@ -43,6 +43,7 @@ Project 03 Construction Tool Detection/
 ├── data.yaml
 ├── train.py
 ├── detect.py
+├── YOLO_Training_Visualization_Demo.ipynb
 ├── YOLO_Detection_Colab.ipynb
 ├── A3_Assignment_Question.docx
 ├── A3_Construction_Tool_Detection_Tutorial.pptx
