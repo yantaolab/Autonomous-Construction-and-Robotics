@@ -28,10 +28,10 @@ This multi-faceted course encompasses advanced technologies in infrastructure an
 ## Project 03 Construction Tool Detection
 
 - 🧩 [Project 03](https://github.com/yantaolab/Autonomous-Construction-and-Robotics/tree/main/Projects/Project%2003%20Construction%20Tool%20Detection)
-- 💻 [Code](https://github.com/yantaolab/Autonomous-Construction-and-Robotics/blob/main/Projects/Project%2003%20Construction%20Tool%20Detection/detect.py)
+- 💻 [Code](https://github.com/yantaolab/Autonomous-Construction-and-Robotics/blob/main/Projects/Project%2003%20Construction%20Tool%20Detection/YOLO_Detection_Colab.ipynb)
 - 📊 [Dataset](https://github.com/yantaolab/Autonomous-Construction-and-Robotics/tree/main/Projects/Project%2003%20Construction%20Tool%20Detection)
 - 📑 [Tutorial Slides](https://github.com/yantaolab/Autonomous-Construction-and-Robotics/blob/main/Projects/Project%2003%20Construction%20Tool%20Detection/A3_Construction_Tool_Detection_Tutorial.pptx)
-- 📝 [Assignment Questions](https://github.com/yantaolab/Autonomous-Construction-and-Robotics/tree/main/Projects/Project%2003%20Construction%20Tool%20Detection)
+- 📝 [Assignment Questions](https://github.com/yantaolab/Autonomous-Construction-and-Robotics/blob/main/Projects/Project%2003%20Construction%20Tool%20Detection/A3_Assignment_Questions.docx)
   
 
   
