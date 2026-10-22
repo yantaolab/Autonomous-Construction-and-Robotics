@@ -1,0 +1,13 @@
+We provide the following APIs. You may pick any one of them and copy it into auth.json.
+
+sk-KYZ7bQvNYjf2y4FAjO4fyWj7uLog1ghnvCoeUK1OJ2W5c3PV
+
+sk-au9YRIWOSzSV7BGsVxk4p1pgLkoDf8QJy1fl9BsP8a4XgoPZ
+
+sk-X86eGZl0XaTVAiByNj8t0LndfXBVimYR4DKVjom5baewf37I
+
+sk-Q2kaHpQdmD8cDCkJHYgKNOryd9pqVvc3Axzxj5CBj7wVYErD
+
+sk-XNKpeGU0OQ2aORk8MO7SnFaRqgDMb1BiLZm62qHchOUjnxBc
+
+sk-mlcwpEy9tYB5mYsgxYUM6ROJ5z5S98noYW1fVelP3Kh7v4yX
