@@ -1,6 +1,6 @@
 # Codex Download and Installation Guide
 
-Official download page: https://learn.chatgpt.com/docs/app
+Official download page: https://learn.chatgpt.com/docs/app  (Windows);https://openai.com/codex/  (Mac)
 
 ## Windows
 
