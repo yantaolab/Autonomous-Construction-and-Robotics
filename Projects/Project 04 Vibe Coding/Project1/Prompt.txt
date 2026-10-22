@@ -1,0 +1,15 @@
+I want to build a “construction-site image recognition” project.
+
+Use Python and YOLO to read construction.jpg in the current 
+folder and detect objects.
+Show me the code
+Please:
+1. Explain your plan simply.
+2. Create or check detect_construction.py.
+3. Use a lightweight pretrained YOLO model.
+4. Draw boxes with class labels and confidence.
+5. Save the annotated image to outputs/construction_detected.jpg.
+6. Create outputs/detection_summary.txt with counts for each detected class.
+7. Run the code. If an error occurs, explain it first and propose the smallest fix.
+8. Explain for beginners what the model found and which results need human review.
+Keep the code clear, runnable, and explained step by step.
