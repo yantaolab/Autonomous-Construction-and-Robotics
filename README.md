@@ -34,4 +34,10 @@ This multi-faceted course encompasses advanced technologies in infrastructure an
 - 📝 [Assignment Questions](https://github.com/yantaolab/Autonomous-Construction-and-Robotics/blob/main/Projects/Project%2003%20Construction%20Tool%20Detection/A3_Assignment_Questions.docx)
   
 
+## Project 04 Vibe Coding
+
+- 🧩 [Project 04](https://github.com/yantaolab/Autonomous-Construction-and-Robotics/tree/main/Projects/Project%2004%20Vibe%20Coding)
+- 🔑 [API Configuration](https://github.com/yantaolab/Autonomous-Construction-and-Robotics/tree/main/Projects/Project%2004%20Vibe%20Coding/API)
+- 📖 [Codex Installation Guide](https://github.com/yantaolab/Autonomous-Construction-and-Robotics/blob/main/Projects/Project%2004%20Vibe%20Coding/Codex_Download_and_Installation_Guide.md)
+
   
