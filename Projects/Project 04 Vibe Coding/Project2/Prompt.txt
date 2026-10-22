@@ -1,0 +1,17 @@
+Please create a personal academic website.
+Ask me questions to collect my information.
+The site should include:
+1. About: a 2–3 sentence introduction.
+2. Interests: AI, data analysis, computer vision.
+3. Projects, Skills, Education, and Contact.
+4. A blue-and-white visual style that works on mobile.
+Please create the first HTML, CSS, and JavaScript files, then let me preview the site.
+
+
+Or
+
+I want to create a personal academic website based on my background and achievements.
+
+Please refer to the overall style, structure, and presentation of the following website:
+https://chenxy875.github.io/ 
+I hope the website content will be similar to this, and ask me questions based on the information needed for this website.
