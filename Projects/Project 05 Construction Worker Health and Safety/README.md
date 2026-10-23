@@ -1,5 +1,5 @@
 
-# DISC5105 Week 2 — Assignment A1: Video and Insole Pressure Fusion
+# DISC5105 — Assignment: Video and Insole Pressure Fusion
 
 In this assignment, you will build a small multimodal data-fusion pipeline using a video frame and plantar-pressure measurements from two insoles. You will align the measurements in time, place pressure readings on a shared spatial grid, combine them with an RGB image, and pass the four-channel input through a simplified pose-estimation network.
 
