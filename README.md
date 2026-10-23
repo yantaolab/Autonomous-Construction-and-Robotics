@@ -41,3 +41,9 @@ This multi-faceted course encompasses advanced technologies in infrastructure an
 - 📖 [Codex Installation Guide](https://github.com/yantaolab/Autonomous-Construction-and-Robotics/blob/main/Projects/Project%2004%20Vibe%20Coding/Codex_Download_and_Installation_Guide.md)
 - 📑 [Tutorial Slides](https://github.com/yantaolab/Autonomous-Construction-and-Robotics/blob/main/Projects/Project%2004%20Vibe%20Coding/Vibe_Coding_Tutorial.pptx)
   
+
+## Project 05 Construction Worker Health and Safety
+
+- 🧩 [Project 05](https://github.com/yantaolab/Autonomous-Construction-and-Robotics/tree/main/Projects/Project%2005%20Construction%20Worker%20Health%20and%20Safety)
+- 💻 [Code](https://github.com/yantaolab/Autonomous-Construction-and-Robotics/blob/main/Projects/Project%2005%20Construction%20Worker%20Health%20and%20Safety/Project05_Assignment.ipynb)
+- 📊 [Dataset](https://github.com/yantaolab/Autonomous-Construction-and-Robotics/tree/main/Projects/Project%2005%20Construction%20Worker%20Health%20and%20Safety/data)
