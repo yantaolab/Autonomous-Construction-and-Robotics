@@ -48,4 +48,5 @@ This multi-faceted course encompasses advanced technologies in infrastructure an
 - 💻 [Code](https://github.com/yantaolab/Autonomous-Construction-and-Robotics/blob/main/Projects/Project%2005%20Construction%20Worker%20Health%20and%20Safety/Project05_Assignment.ipynb)
 - 📊 [Dataset](https://github.com/yantaolab/Autonomous-Construction-and-Robotics/tree/main/Projects/Project%2005%20Construction%20Worker%20Health%20and%20Safety/data)
 - 📝 [Assignment Questions](https://github.com/yantaolab/Autonomous-Construction-and-Robotics/blob/main/Projects/Project%2005%20Construction%20Worker%20Health%20and%20Safety/Project05_Assignment_Questions.docx)
+- 📑 [Tutorial Slides](https://github.com/yantaolab/Autonomous-Construction-and-Robotics/blob/main/Projects/Project%2005%20Construction%20Worker%20Health%20and%20Safety/Multimodal_Data%20fusion.pdf)
 
