@@ -50,3 +50,9 @@ This multi-faceted course encompasses advanced technologies in infrastructure an
 - 📝 [Assignment Questions](https://github.com/yantaolab/Autonomous-Construction-and-Robotics/blob/main/Projects/Project%2005%20Construction%20Worker%20Health%20and%20Safety/Project05_Assignment_Questions.docx)
 - 📑 [Tutorial Slides](https://github.com/yantaolab/Autonomous-Construction-and-Robotics/blob/main/Projects/Project%2005%20Construction%20Worker%20Health%20and%20Safety/Multimodal_Data%20fusion.pdf)
 
+## Project 06 Biomechanical Simulation and Exoskeleton
+
+- 🧩 [Project 06](Projects/Project%2006%20Biomechanical%20Simulation%20and%20Exoskeleton/)
+- 💻 [Code](Projects/Project%2006%20Biomechanical%20Simulation%20and%20Exoskeleton/colab/)
+- 📊 [Dataset](Projects/Project%2006%20Biomechanical%20Simulation%20and%20Exoskeleton/data/)
+- 📑 [Tutorial Slides](Projects/Project%2006%20Biomechanical%20Simulation%20and%20Exoskeleton/project%2006%20slides.pptx)
