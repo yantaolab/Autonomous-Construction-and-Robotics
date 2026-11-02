@@ -5,4 +5,4 @@ Classes:
 - safety_vest
 Please teach me how to annotate these images.
 Recommend a beginner-friendly YOLO annotation tool and show me how to use it.
-Then help me build a training dataset and train the model.
+Then help me build a training dataset and train the model. Please give me the instruction quickly.
