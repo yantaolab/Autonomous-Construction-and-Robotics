@@ -56,3 +56,11 @@ This multi-faceted course encompasses advanced technologies in infrastructure an
 - 💻 [Code](Projects/Project%2006%20Biomechanical%20Simulation%20and%20Exoskeleton/colab/)
 - 📊 [Dataset](Projects/Project%2006%20Biomechanical%20Simulation%20and%20Exoskeleton/data/)
 - 📑 [Tutorial Slides](Projects/Project%2006%20Biomechanical%20Simulation%20and%20Exoskeleton/project%2006%20slides.pptx)
+
+## Project 07 Point Cloud Segmentation and Robot Path Planning
+
+- 🧩 [Project 07](Projects/Project%2007%20Point%20Cloud%20Segmentation%20and%20Robot%20Path%20Planning/)
+- 💻 [Code](Projects/Project%2007%20Point%20Cloud%20Segmentation%20and%20Robot%20Path%20Planning/PointNet_Student.ipynb)
+- 📄 [Tutorial Slides](Projects/Project%2007%20Point%20Cloud%20Segmentation%20and%20Robot%20Path%20Planning/Assignment%207%20Point%20Cloud%20Segmentation%20and%20Robot%20Path%20Planning.pptx)
+- 📝 [Assignment Questions](Projects/Project%2007%20Point%20Cloud%20Segmentation%20and%20Robot%20Path%20Planning/)
+
