@@ -67,6 +67,6 @@ This multi-faceted course encompasses advanced technologies in infrastructure an
 ## Project 08 Human–Robot Handover with Reinforcement Learning
 
 - 🧩 [Project 08](Projects/Project%2008%20Human%E2%80%93Robot%20Handover%20with%20Reinforcement%20Learning)
-- 💻 [Code and Tutorial Notebook](Projects/Project%2008%20Human%E2%80%93Robot%20Handover%20with%20Reinforcement%20Learning/hri_handover_tutorial.ipynb)
-- 📖 [Setup and Project Guide](Projects/Project%2008%20Human%E2%80%93Robot%20Handover%20with%20Reinforcement%20Learning/README.md)
-- 📝 [Assignment Questions](Projects/Project%2008%20Human%E2%80%93Robot%20Handover%20with%20Reinforcement%20Learning/CourseProject.pdf)
+- 💻 [Code](Projects/Project%2008%20Human%E2%80%93Robot%20Handover%20with%20Reinforcement%20Learning/hri_handover_tutorial.ipynb)
+- 📖 [Tutorial Slides](https://github.com/yantaolab/Autonomous-Construction-and-Robotics/blob/main/Projects/Project%2008%20Human%E2%80%93Robot%20Handover%20with%20Reinforcement%20Learning/CourseProject.pdf)
+- 📝 [Assignment Questions](https://github.com/yantaolab/Autonomous-Construction-and-Robotics/blob/main/Projects/Project%2008%20Human%E2%80%93Robot%20Handover%20with%20Reinforcement%20Learning/hri_handover_tutorial.ipynb)
