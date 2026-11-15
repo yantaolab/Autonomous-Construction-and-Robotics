@@ -64,3 +64,9 @@ This multi-faceted course encompasses advanced technologies in infrastructure an
 - 📄 [Tutorial Slides](Projects/Project%2007%20Point%20Cloud%20Segmentation%20and%20Robot%20Path%20Planning/Assignment%207%20Point%20Cloud%20Segmentation%20and%20Robot%20Path%20Planning.pptx)
 - 📝 [Assignment Questions](Projects/Project%2007%20Point%20Cloud%20Segmentation%20and%20Robot%20Path%20Planning/)
 
+## Project 08 Human–Robot Handover with Reinforcement Learning
+
+- 🧩 [Project 08](Projects/Project%2008%20Human%E2%80%93Robot%20Handover%20with%20Reinforcement%20Learning)
+- 💻 [Code](Projects/Project%2008%20Human%E2%80%93Robot%20Handover%20with%20Reinforcement%20Learning/hri_handover_tutorial.ipynb)
+- 📖 [Tutorial Slides](https://github.com/yantaolab/Autonomous-Construction-and-Robotics/blob/main/Projects/Project%2008%20Human%E2%80%93Robot%20Handover%20with%20Reinforcement%20Learning/CourseProject.pdf)
+- 📝 [Assignment Questions](https://github.com/yantaolab/Autonomous-Construction-and-Robotics/blob/main/Projects/Project%2008%20Human%E2%80%93Robot%20Handover%20with%20Reinforcement%20Learning/hri_handover_tutorial.ipynb)
