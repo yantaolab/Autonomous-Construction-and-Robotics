@@ -1,0 +1,20 @@
+<mujoco model="free-timber">
+  <compiler inertiafromgeom="true" angle="degree" /> 
+  <asset>
+    <texture file="../textures/light-wood.png" type="cube" name="light-wood" />
+    <material name="MatLightWood" texture="light-wood" texrepeat="3 3" specular="0.4" shininess="0.1" />
+  </asset>
+
+  <worldbody>
+    <body>
+      <body name="object" pos="0 0 0" quat="1 0 0 0">
+        <geom name="timber" type="box" size="0.225 0.01 0.0175" pos="0 0 0"
+              friction="4.0 0.05 0.001" contype="1" conaffinity="1" group="0" condim="4"
+              density="100" material="MatLightWood" solimp="0.998 0.998 0.001" solref="0.0005 1" />
+
+        <site name="notch_0" pos="-0.225 0 0" rgba="0 1 0 0.5" size="0.01" />
+        <site name="notch_1" pos="0.225 0 0" rgba="0 1 0 0.5" size="0.01" />
+      </body>
+    </body>
+  </worldbody>
+</mujoco>

@@ -1,0 +1,31 @@
+<mujoco model="base-timber">
+  <compiler inertiafromgeom="true" angle="degree" /> 
+  <asset>
+    <texture file="../textures/light-wood.png" type="cube" name="light-wood" />
+    <material name="MatLightWood" texture="light-wood" texrepeat="3 3" specular="0.4" shininess="0.1" />
+  </asset>
+
+  <worldbody>
+    <body>
+      <body name="object" pos="0 0 0" quat="1 0 0 0">
+        <geom name="box0" type="box" size="0.035 0.02 0.1445" pos="0 0 0.155" 
+              friction="4.0 0.05 0.001" contype="1" conaffinity="1" group="0" condim="4"
+              density="100" material="MatLightWood" solimp="0.998 0.998 0.001" solref="0.0005 1" />
+
+        <geom name="box1" type="box" size="0.0175 0.02 0.0105" pos="0.0175 0 0" 
+              friction="4.0 0.05 0.001" contype="1" conaffinity="1" group="0" condim="4"
+              density="100" material="MatLightWood" solimp="0.998 0.998 0.001" solref="0.0005 1" />
+
+        <geom name="box2" type="box" size="0.035 0.02 0.1445" pos="0 0 -0.155" 
+              friction="4.0 0.05 0.001" contype="1" conaffinity="1" group="0" condim="4"
+              density="100" material="MatLightWood" solimp="0.998 0.998 0.001" solref="0.0005 1" />
+
+        <geom name="box3" type="box" size="0.0175 0.01 0.0105" pos="-0.0175 0.01 0" 
+              friction="4.0 0.05 0.001" contype="1" conaffinity="1" group="0" condim="4"
+              density="100" material="MatLightWood" solimp="0.998 0.998 0.001" solref="0.0005 1" />
+
+        <site name="notch" pos="-0.0175 0 0" size="0.01" rgba="0 1 0 0.5" />
+      </body>
+    </body>
+  </worldbody>
+</mujoco>
