@@ -1,0 +1,23 @@
+# Intel (x86_64) Macs only. Python 3.11. Run from the CourseProj folder:
+#   pip install -r requirements-intel-mac.txt
+# PyTorch stopped shipping Intel Mac builds after 2.2.2, and 2.2.2 needs numpy < 2,
+# so this file pins the newest versions that work together on Intel Macs.
+
+# Local robosuite with HumanRobotHandover (editable install into site-packages)
+-e mujoco/robosuite
+mujoco==3.6.0
+numpy==1.26.4
+numba==0.62.1
+scipy==1.17.1
+opencv-python==4.10.0.84
+
+# Notebook and training
+gymnasium==1.0.0
+stable-baselines3==2.4.1
+torch==2.2.2
+imageio==2.37.3
+imageio-ffmpeg==0.6.0
+matplotlib==3.11.2
+pandas==3.0.6
+notebook==7.6.5
+ipykernel==7.4.0
